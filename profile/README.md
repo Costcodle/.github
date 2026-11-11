@@ -15,4 +15,4 @@
 
 [Bluesky](https://bsky.app/profile/costcodle.bsky.social) · [Ko-fi](https://ko-fi.com/costcodle) · [Linktree](https://linktr.ee/costcodle)
 
-<sub>Costcodle is an independent fan game. Not affiliated with, endorsed by, or sponsored by Costco Wholesale Corporation. Prices are game snapshots, not live store prices.</sub>
+<sub>Costcodle is not affiliated with, endorsed by, or sponsored by Costco Wholesale Corporation. Prices are game snapshots, not live store prices.</sub>
